@@ -1,4 +1,4 @@
 <?php
-echo "git是个傻瓜";
+echo "修改一下git是个傻瓜";
 
 ?>
